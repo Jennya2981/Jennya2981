@@ -1,16 +1,37 @@
-## Hi there 👋
+```
+# Привет, я Evgenia!
 
-<!--
-**Jennya2981/Jennya2981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий разработчик, который учится каждый день. Интересуюсь **Python** и **веб-разработкой** — от простых скриптов до красивых сайтов.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Обо мне
+
+- Студент, активно осваиваю программирование
+- Изучаю Python и веб-технологии (HTML, CSS, JavaScript)
+- Люблю разбираться в том, как работают вещи
+- Постоянно учусь и пробую новое
+
+## Технологии
+
+| Направление    | Технологии                        |
+| -------------- | --------------------------------- |
+| Языки          | Python, JavaScript                |
+| Веб-разработка | HTML, CSS, основы frontend        |
+| Инструменты    | Git, GitHub, (VS Code и др.)      |
+
+## Что я делаю
+
+- Учусь: пишу код, решаю задачи, разбираю проекты
+- Экспериментирую: пробую новые технологии и подходы
+- Расту: делюсь учебными проектами и прогрессом
+
+## Контакты
+
+- GitHub: [jennya2981](https://github.com/jennya2981)
+- Email: `jennya2981@yandex.ru`
+
+---
+
+> «Путь в тысячу ли начинается с первого шага» — каждый репозиторий делает меня лучше.
+```
